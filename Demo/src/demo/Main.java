@@ -1,9 +1,9 @@
 package demo;
 
 public class Main {
-
+	
 	public static void main(String[] args) {
 		
-		System.out.println("First github");
+		System.err.println("code2 ");
 	}
 }
