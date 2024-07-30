@@ -6,5 +6,6 @@ public class Main {
 		
 		System.err.println("code2 ");
 		System.err.println("code5 ");
+		System.err.println("code5 ");
 	}
 }
